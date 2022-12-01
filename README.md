@@ -4,7 +4,7 @@ Following along the [Rust Roguelike Tutorial (Chargrid 2020)](https://www.gridbu
 
 - [x] 0. Setting Up
 - [x] 1. Drawing and Moving the Player
-- [ ] 2. Entities, Rendering, Map
+- [x] 2. Entities, Rendering, Map
 - [ ] 3. Generating a Dungeon
 - [ ] 4. Field of View
 - [ ] 5. Placing NPCs
